@@ -58,6 +58,20 @@ ECG_GUI_Pro
 
 ---
 
+## 📸 Résultats & Visualisations
+
+### 📈 Signal ECG (domaine temporel)
+![Signal ECG temporel](ecg/signal_temporel.png)
+
+### 🧹 Signal ECG filtré
+![Signal ECG filtré](ecg/signal_filtre.png)
+
+### 🌊 Spectrogramme
+![Spectrogramme](ecg/spectrogramme.png)
+
+### ❤️ Identification des ondes PQRST
+![PQRST](ecg/pqrst.png)
+
 ## 🎯 Project Goal
 
 To apply signal processing and machine learning techniques for ECG analysis in biomedical applications.
