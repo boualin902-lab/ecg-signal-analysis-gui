@@ -61,7 +61,7 @@ ECG_GUI_Pro
 ## 📸 Résultats & Visualisations
 
 ### 📈 Signal ECG (domaine temporel)
-![Signal ECG temporel](ecg/signal_temporel.png)
+![Signal ECG temporel](ecg/signal_temporel.jpg)
 
 ### 🧹 Signal ECG filtré
 ![Signal ECG filtré](ecg/signal_filtre.png)
