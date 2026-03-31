@@ -64,13 +64,13 @@ ECG_GUI_Pro
 ![Signal ECG temporel](ecg/signal_temporel.jpg)
 
 ### 🧹 Signal ECG filtré
-![Signal ECG filtré](ecg/signal_filtre.png)
+![Signal ECG filtré](ecg/signal_filtre.jpg)
 
 ### 🌊 Spectrogramme
-![Spectrogramme](ecg/spectrogramme.png)
+![Spectrogramme](ecg/spectrogramme.jpg)
 
 ### ❤️ Identification des ondes PQRST
-![PQRST](ecg/pqrst.png)
+![PQRST](ecg/pqrst.jpg)
 
 ## 🎯 Project Goal
 
